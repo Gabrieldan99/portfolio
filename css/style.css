@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:wght@600&family=Roboto&display=swap');
+
+*{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Allura', cursive;
+	font-size: 50px;
+}
+
