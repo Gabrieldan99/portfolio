@@ -5,12 +5,72 @@
 
 }
 
+
 h2{
 	font-family: 'Montserrat', sans-serif;
+	color: #007bff;
 }
 
 h1 {
 	font-family: 'Allura', cursive;
 	font-size: 50px;
+	font-weight: bold;
+
 }
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+#landing, #gallery{
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tools{
+	padding: 25px;
+	height:200px;
+	border: 5px solid #f2f2f2;
+	margin:20px;
+	width: 75%;
+	color: white;
+}
+
+.nav-link{
+	text-transform: uppercase;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+.footer{
+  background-color: #007bff;
+  padding:50px 0 20px;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.copyright{
+  color:#EAF6F6;
+font-size: 0.75rem;
+padding: 20px;
+}
+.footer-link{
+  color: black;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color:#EAF6F6;
+{
 
